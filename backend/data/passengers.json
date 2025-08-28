@@ -1,0 +1,98 @@
+[
+  {
+    "id": "41c284b9-5b3e-4625-b7d5-e0a907be8e5a",
+    "ticketNumber": "2172860898782",
+    "firstName": "Ashar",
+    "lastName": "Ahmed",
+    "downloadStatus": "success",
+    "parseStatus": "success",
+    "pdfPath": "/Users/mirakbari/Desktop/practice/Assesment/backend/uploads/invoice_2172860898782_1756371235522.pdf",
+    "invoiceData": {
+      "invoiceNumber": "07P2502IV017940",
+      "date": "2025-08-28",
+      "airline": "Thai Airways International",
+      "amount": 34329,
+      "gstin": "06AABCO9247K1Z3"
+    }
+  },
+  {
+    "id": "2607559f-375d-4e7e-ac08-5b4779fd6f17",
+    "ticketNumber": "2173425250895",
+    "firstName": "PRASOON",
+    "lastName": "YADAV",
+    "downloadStatus": "success",
+    "parseStatus": "success",
+    "pdfPath": "/Users/mirakbari/Desktop/practice/Assesment/backend/uploads/invoice_2173425250895_1756370624233.pdf",
+    "invoiceData": {
+      "invoiceNumber": "07P2501IV001480",
+      "date": "2025-02-28",
+      "airline": "Thai Airways International",
+      "amount": 44248,
+      "gstin": ""
+    }
+  },
+  {
+    "id": "ce8b70b0-d7c5-4aa9-afc5-6afcb438fd17",
+    "ticketNumber": "2173420960092",
+    "firstName": "VICTOR",
+    "lastName": "WAGNER",
+    "downloadStatus": "success",
+    "parseStatus": "success",
+    "pdfPath": "/Users/mirakbari/Desktop/practice/Assesment/backend/uploads/invoice_2173420960092_1756370401529.pdf",
+    "invoiceData": {
+      "invoiceNumber": "27P2410IV002348",
+      "date": "2025-08-28",
+      "airline": "Thai Airways International",
+      "amount": 94998,
+      "gstin": "27AABCB3524G1Z1"
+    }
+  },
+  {
+    "id": "d76d7aa5-af9d-42a5-963e-ae91837a0b3a",
+    "ticketNumber": "2173420770687",
+    "firstName": "NAYAN",
+    "lastName": "KHANNA",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  },
+  {
+    "id": "bd99580f-8b1c-4180-b848-099e0c535df4",
+    "ticketNumber": "2175905535614",
+    "firstName": "KAUSHIK",
+    "lastName": "BANERJEE",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  },
+  {
+    "id": "4b232782-a5b5-4cbb-a84c-e8258e2c8b6b",
+    "ticketNumber": "2175904917328",
+    "firstName": "MANJUNATHASWAMY",
+    "lastName": "DINNIMATH",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  },
+  {
+    "id": "dacfa6bf-42b8-44e8-88aa-6f74feba7abb",
+    "ticketNumber": "2175413770504",
+    "firstName": "SOUMYA",
+    "lastName": "PARVATIYAR",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  },
+  {
+    "id": "6ff16f46-494d-4434-9874-36aab0513f73",
+    "ticketNumber": "2173079287333",
+    "firstName": "RAGHAV",
+    "lastName": "SALLY",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  },
+  {
+    "id": "813db347-cc79-4d75-b972-56782c21180d",
+    "ticketNumber": "2173078482499",
+    "firstName": "VIKAS",
+    "lastName": "SAINI",
+    "downloadStatus": "pending",
+    "parseStatus": "pending"
+  }
+]
